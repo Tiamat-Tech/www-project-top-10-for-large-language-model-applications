@@ -1,5 +1,5 @@
 ---
-title: 2023 v1.1 Archive
+title: Archive
 layout:  null
 tab: true
 order: 1
